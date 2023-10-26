@@ -1,0 +1,23 @@
+.main {
+  margin: 0 auto;
+  padding-top: 10vh;
+  width: 25%;
+}
+.city {
+  padding: 1rem;
+  width: 100%;
+  border: 1px solid #d3d3d3;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+.location {
+  margin-top: 1rem;
+  background-color: #6A5ACD;
+  color: #fff;
+  width: 100%;
+}
+.location:hover {
+  transition: all 1s;
+  background-color: #A38DFF;
+  color: #fff;
+}
