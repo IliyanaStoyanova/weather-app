@@ -1,1 +1,2 @@
-const apiKey = '31514698294a86a43c68c7d12531fb27';
+//set your apiKey
+const apiKey = '';
